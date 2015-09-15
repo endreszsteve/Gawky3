@@ -1,0 +1,12 @@
+﻿Build started 2015-09-13 12:05:49 PM.
+     1>Project "C:\Users\Tyler\OneDrive\Direct x\Final Project - 3D\GawkyAdventures21\GawkyAdventures\GawkyAdventures.vcxproj" on node 2 (Build target(s)).
+     1>FxCompile:
+         C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Utilities\bin\x86\fxc.exe /nologo /E"main" /Fo "C:\Users\Tyler\OneDrive\Direct x\Final Project - 3D\GawkyAdventures21\Release\Basic.cso" FX\Basic.fx 
+     1>FXC : error X3501: 'main': entrypoint not found
+         
+         compilation failed; no code produced
+     1>Done Building Project "C:\Users\Tyler\OneDrive\Direct x\Final Project - 3D\GawkyAdventures21\GawkyAdventures\GawkyAdventures.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.08
