@@ -3,8 +3,8 @@
 
 using namespace std;
 
-#define MAX_VERTICES 200000
-#define MAX_INDICES 200000
+#define MAX_VERTICES 2000000
+#define MAX_INDICES 2000000
 
 
 wistream& operator>>(wistream& is, XMFLOAT3& v)
